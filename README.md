@@ -14,7 +14,7 @@ This repository contains the solutions to the Summer Assignment programming ques
 ## Folder Structure
 
 ```text
-Summer-Assignment-[ADMISSION-NUMBER]/
+Summer-Assignment
 
 ├── Day1/
 │   ├── question1.c
